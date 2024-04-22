@@ -1,6 +1,6 @@
 ## Predicting Parkinson's Disease Risk Through Protein and Peptide Level Analysis: An Evidence from EDA and Machine Learning Based Approach
 
-## Research Paper Published Under International IEEE Conference -> (Primary Author: Kushagra)
+# Research Paper Published Under International IEEE Conference -> (Primary Author: Kushagra)
 ![image](https://github.com/officialkushagragupta/Predicting-Parkinson-s-Disease-Risk-Through-Protein-and-Peptide-Level-EDA-ML-Based-Approach/assets/96885711/f6fc3248-72e5-495c-a339-a2b7d52382a5)
 
 ## Paper Link: https://ieeexplore.ieee.org/document/10425287
