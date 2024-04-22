@@ -24,6 +24,11 @@ strategies. Incorporating machine learning into routine screenings has the poten
 management, facilitating timely interventions and personalized care.
 
 
+## Workflow
+
+![image](https://github.com/officialkushagragupta/Predicting-Parkinson-s-Disease-Risk-Through-Protein-and-Peptide-Level-EDA-ML-Based-Approach/assets/96885711/8eaae973-c994-4869-82dd-6177dbe1be0b)
+
+
 ## Background: 
 
 ![image](https://github.com/officialkushagragupta/Predicting-Parkinson-s-Disease-Risk-Through-Protein-and-Peptide-Level-EDA-ML-Based-Approach/assets/96885711/26ffb223-4af7-46a8-b087-e1b507f913e1)
@@ -42,11 +47,6 @@ management, facilitating timely interventions and personalized care.
 ## Project at a Glance
 
 ![image](https://github.com/officialkushagragupta/Predicting-Parkinson-s-Disease-Risk-Through-Protein-and-Peptide-Level-EDA-ML-Based-Approach/assets/96885711/44eb9a68-3989-4553-8ed4-99ac4a403484)
-
-
-## Workflow
-
-![image](https://github.com/officialkushagragupta/Predicting-Parkinson-s-Disease-Risk-Through-Protein-and-Peptide-Level-EDA-ML-Based-Approach/assets/96885711/8eaae973-c994-4869-82dd-6177dbe1be0b)
 
 # Results 
 
